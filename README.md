@@ -27,9 +27,13 @@ More women are diagnosed with breast cancer than any other cancer,5-year surviva
 ![image.png](Images/CatPlot_Pos_axillary_nodes_Stats.png)
 ### Observation 
 -If pos_axillary nodes <3, more chances of survival for any age group 
+### BoxPlot to find outliers
+![image.png](Images/Boxplot_outlier.png)
 
 ### Pairplot 
 ![image.jpg](Images/Histrogram.jpg) 
+
+
 
 ### Conclusion
 -Low age people are likely to be survived more than 5years and longer than remaining age group people
