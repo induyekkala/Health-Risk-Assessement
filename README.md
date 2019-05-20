@@ -15,8 +15,7 @@ More women are diagnosed with breast cancer than any other cancer,5-year surviva
 | `Status` | Patient survived or not |  (1=YES, 2=NO)| Numerical Value |
 
 ## PROJECT ANALYSIS
-| Description | Analysis |
-| --- | --- |
+
 |Observations | ![image.png](Images/correlation.png) |
 -Age_clean and Pos_axillary_nodes has a negative correlation.
 -Age_clean and Year_of_Operation has a postive correlation.
