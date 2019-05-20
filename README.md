@@ -16,13 +16,20 @@ More women are diagnosed with breast cancer than any other cancer,5-year surviva
 
 ## PROJECT ANALYSIS
 
-|Observations | ![image.png](Images/correlation.png) |
+### Correlation
+![image.png](Images/correlation.png) 
+### Observation
 -Age_clean and Pos_axillary_nodes has a negative correlation.
 -Age_clean and Year_of_Operation has a postive correlation.
--Pos_axillary_nodes and Year_of_Operation has a postive correlation |  |
-| Observation | ![image.png](Images/CatPlot_Pos_axillary_nodes_Stats.png) |
+-Pos_axillary_nodes and Year_of_Operation has a postive correlation   
+
+### Correlation among all attributes using BoxPlot
+![image.png](Images/CatPlot_Pos_axillary_nodes_Stats.png)
+### Observation 
 -If pos_axillary nodes <3, more chances of survival for any age group 
-| Observations | ![image.png](Images/Histrogram.png) |
+
+### Pairplot
+![image.png](Images/Histrogram.png) 
 
 ### Conclusion
 -Low age people are likely to be survived more than 5years and longer than remaining age group people
