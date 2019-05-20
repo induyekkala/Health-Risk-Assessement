@@ -31,7 +31,7 @@ More women are diagnosed with breast cancer than any other cancer,5-year surviva
 ![image.png](Images/Boxplot_outlier.png)
 
 ### Pairplot 
-![image.jpg](Images/Histrogram.jpg) 
+![image.jpg](Images/Histrogram.JPG) 
 
 
 
