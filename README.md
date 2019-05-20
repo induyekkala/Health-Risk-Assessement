@@ -28,7 +28,7 @@ More women are diagnosed with breast cancer than any other cancer,5-year surviva
 ### Observation 
 -If pos_axillary nodes <3, more chances of survival for any age group 
 
-### Pairplot
+### Pairplot 
 ![image.jpg](Images/Histrogram.jpg) 
 
 ### Conclusion
