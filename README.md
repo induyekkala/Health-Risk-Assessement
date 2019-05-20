@@ -17,11 +17,11 @@ More women are diagnosed with breast cancer than any other cancer,5-year surviva
 ## PROJECT ANALYSIS
 | Description | Analysis |
 | --- | --- |
-|Observations | ![image.png](images/correlation.jpg) |
+|Observations | ![image.png](images/correlation.png |
 -Age_clean and Pos_axillary_nodes has a negative correlation.
 -Age_clean and Year_of_Operation has a postive correlation.
 -Pos_axillary_nodes and Year_of_Operation has a postive correlation |  |
-| Observation | ![image.png](images/CatPlot_Pos_axillary_nodes_Stats.jpg) |
+| Observation | ![image.png](images/CatPlot_Pos_axillary_nodes_Stats.png) |
 -If pos_axillary nodes <3, more chances of survival for any age group 
 | Observations | ![image.png](images/Histrogram.png) |
 
