@@ -36,9 +36,11 @@ More women are diagnosed with breast cancer than any other cancer,5-year surviva
 
 
 ### Conclusion
--Low age people are likely to be survived more than 5years and longer than remaining age group people
--As Pos_axillary_nodes increase survival rate decreases
--if pos_axillary nodes are less more chance of survival of patients more than 5years or longer and maximum detect of cancer at age  group="medium"  
+-Low age people are likely to be survived more than 5years and longer than remaining age group people.
+
+-As Pos_axillary_nodes increase survival rate decreases.
+
+-If pos_axillary nodes are less more chance of survival of patients more than 5years or longer and maximum detect of cancer at age.  group="medium"  
 
 [Jupyter Notebook](./Code.ipynb)
 
